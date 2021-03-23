@@ -24,8 +24,8 @@ For the realisation of this project we have opted for the Python3 and Dash libra
 #Prediction
 #Simulation
 <img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674638212.jpg">
+<img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674638177.jpg">
 <img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674637876.jpg">
 <img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674638042.jpg">
 <img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674638171.jpg">
-<img src="https://github.com/zouheirtouil/Simulation_Accidents_Routiers/blob/main/1601674638177.jpg">
 
